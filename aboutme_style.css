@@ -1,0 +1,60 @@
+body {
+    padding-left: 20%;
+    padding-right: 20%;
+    background-color: rgb(25, 29, 34);
+    color: white;
+}
+
+h1:first-child:first-letter {
+    color: rgb(238, 17, 91);
+    font-family: Georgia;
+    font-size: 50px;
+    line-height: 30px;
+  }
+
+h2 {
+    color:rgb(142, 131, 248);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 20px
+}
+
+h3 {
+    color: rgb(82, 197, 159);
+    text-align: justify;
+}
+td:first-child:first-letter {
+    color: rgb(238, 17, 91);
+    font-family: Georgia;
+    font-size: 50px;
+    line-height: 30px;
+  }
+  tr {
+      font-size: 25px;
+  }
+
+strong {
+    color: rgb(255, 174, 0);
+}
+
+ul {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font: center;
+}
+
+a:link {
+    color: red;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    text-decoration: underline;
+    text-decoration-color:rgb(247, 209, 220);
+}
+
+
+img {
+    width: 400px;
+    height: 400px;
+}
